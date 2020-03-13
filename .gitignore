@@ -1,0 +1,10 @@
+build/
+.gradle/
+.maven/
+bazel-*
+kotlin-lib/gradleBuild
+kotlin-lib/caches
+kotlin-lib/daemon
+kotlin-lib/gradle
+kotlin-lib/notifications
+.DS_Store
